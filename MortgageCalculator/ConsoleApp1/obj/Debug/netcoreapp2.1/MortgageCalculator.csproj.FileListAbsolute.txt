@@ -1,0 +1,11 @@
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.AssemblyInfo.cs
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MortgageCalculator.deps.json
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MortgageCalculator.runtimeconfig.json
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MortgageCalculator.runtimeconfig.dev.json
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MortgageCalculator.dll
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MortgageCalculator.pdb
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.dll
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.pdb
+C:\Users\Bryan Evans\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MortgageCalculator.csprojAssemblyReference.cache
